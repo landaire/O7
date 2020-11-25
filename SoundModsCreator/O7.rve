@@ -12,12 +12,7 @@
 				false
 			],
 			"currentChain": [
-				[
-					[],
-					[],
-					[],
-					[]
-				],
+				[],
 				[
 					[]
 				],
@@ -46,7 +41,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk_nom.wav"
+							"AudioExport/bfk_nom.wav"
 						]
 					},
 					{
@@ -58,13 +53,13 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_Fucking_Game_Sucks.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_Rage.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk-citadel.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Gaishu_What_Is_That.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_Gaped.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_wtf.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Senpai_Gachi.wav"
+							"AudioExport/BFK_Fucking_Game_Sucks.wav",
+							"AudioExport/Bfk_Rage.wav",
+							"AudioExport/bfk-citadel.wav",
+							"AudioExport/Gaishu_What_Is_That.wav",
+							"AudioExport/Ruslan_Gaped.wav",
+							"AudioExport/Ruslan_wtf.wav",
+							"AudioExport/Senpai_Gachi.wav"
 						]
 					}
 				],
@@ -2419,8 +2414,8 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/CumZone.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/DortMotivation_Trimmed.wav"
+							"AudioExport/CumZone.wav",
+							"AudioExport/DortMotivation_Trimmed.wav"
 						]
 					}
 				],
@@ -5132,14 +5127,7 @@
 				false
 			],
 			"currentChain": [
-				[
-					[
-						"0"
-					],
-					[
-						"44"
-					]
-				],
+				[],
 				[
 					[]
 				],
@@ -5168,7 +5156,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Gibbins_Nerf_AA.wav"
+							"AudioExport/Gibbins_Nerf_AA.wav"
 						]
 					},
 					{
@@ -5180,7 +5168,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Dirt_Torp_Booster.wav"
+							"AudioExport/Dirt_Torp_Booster.wav"
 						]
 					},
 					{
@@ -5192,7 +5180,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_Spotter_Plane.wav"
+							"AudioExport/Bfk_Spotter_Plane.wav"
 						]
 					},
 					{
@@ -5204,7 +5192,19 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Dirt_Torp_Booster.wav"
+							"AudioExport/Dirt_Torp_Booster.wav"
+						]
+					},
+					{
+						"name": "*.Engine",
+						"readable": [
+							"*.Engine forsage",
+							"*.Форсаж"
+						],
+						"muted": false,
+						"filesNotFound": false,
+						"paths": [
+							"AudioExport/Ruslan_NEOWWW.wav"
 						]
 					}
 				],
@@ -5252,7 +5252,8 @@
 					"0,2",
 					"0,43",
 					"0,34",
-					"0,44"
+					"0,44",
+					"0,7"
 				],
 				[],
 				[]
@@ -6166,7 +6167,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk_nom.wav"
+							"AudioExport/bfk_nom.wav"
 						]
 					}
 				],
@@ -10776,7 +10777,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/DirtKhabYugumo.wav"
+							"AudioExport/DirtKhabYugumo.wav"
 						]
 					},
 					{
@@ -10788,7 +10789,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_THE_CREATURE.wav"
+							"AudioExport/BFK_THE_CREATURE.wav"
 						]
 					}
 				],
@@ -11189,8 +11190,8 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/AssClap_Scream.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_Fire.wav"
+							"AudioExport/AssClap_Scream.wav",
+							"AudioExport/BFK_Fire.wav"
 						]
 					}
 				],
@@ -11281,7 +11282,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_Good_Start.wav"
+							"AudioExport/BFK_Good_Start.wav"
 						]
 					}
 				],
@@ -11372,7 +11373,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Dort_Cruisers.wav"
+							"AudioExport/Dort_Cruisers.wav"
 						]
 					},
 					{
@@ -11384,8 +11385,8 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/DortCvDestroyed.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_CV.wav"
+							"AudioExport/DortCvDestroyed.wav",
+							"AudioExport/Bfk_CV.wav"
 						]
 					}
 				],
@@ -11478,7 +11479,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Doyle_Bulge.wav"
+							"AudioExport/Doyle_Bulge.wav"
 						]
 					}
 				],
@@ -11803,7 +11804,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk_nom.wav"
+							"AudioExport/bfk_nom.wav"
 						]
 					}
 				],
@@ -11865,14 +11866,7 @@
 				false
 			],
 			"currentChain": [
-				[
-					[
-						"0"
-					],
-					[
-						1
-					]
-				],
+				[],
 				[
 					[]
 				],
@@ -11901,7 +11895,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk_nom.wav"
+							"AudioExport/bfk_nom.wav"
 						]
 					},
 					{
@@ -11913,9 +11907,9 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/PQBestBattleshipPlayer.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Senpai_Gachi.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Senpai_Your_HP_Is_My_Property.wav"
+							"AudioExport/PQBestBattleshipPlayer.wav",
+							"AudioExport/Senpai_Gachi.wav",
+							"AudioExport/Senpai_Your_HP_Is_My_Property.wav"
 						]
 					}
 				],
@@ -12464,7 +12458,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Dort_LadyK.wav"
+							"AudioExport/Dort_LadyK.wav"
 						]
 					},
 					{
@@ -12476,7 +12470,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/NotserSupport.wav"
+							"AudioExport/NotserSupport.wav"
 						]
 					},
 					{
@@ -12488,7 +12482,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/DortDestroyer.wav"
+							"AudioExport/DortDestroyer.wav"
 						]
 					},
 					{
@@ -12500,8 +12494,8 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Flamu_Team.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_Is_This_Good.wav"
+							"AudioExport/Flamu_Team.wav",
+							"AudioExport/Bfk_Is_This_Good.wav"
 						]
 					},
 					{
@@ -12513,7 +12507,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Flamu_Radar.wav"
+							"AudioExport/Flamu_Radar.wav"
 						]
 					}
 				],
@@ -12686,7 +12680,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Kelsier.wav"
+							"AudioExport/Kelsier.wav"
 						]
 					},
 					{
@@ -12698,7 +12692,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Kelsier.wav"
+							"AudioExport/Kelsier.wav"
 						]
 					},
 					{
@@ -12710,7 +12704,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Kelsier.wav"
+							"AudioExport/Kelsier.wav"
 						]
 					},
 					{
@@ -12722,7 +12716,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Kelsier.wav"
+							"AudioExport/Kelsier.wav"
 						]
 					}
 				],
@@ -12817,9 +12811,9 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Dastert_Yugumo.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/FuckingRentalShima.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk_nom.wav"
+							"AudioExport/Dastert_Yugumo.wav",
+							"AudioExport/FuckingRentalShima.wav",
+							"AudioExport/bfk_nom.wav"
 						]
 					},
 					{
@@ -12831,13 +12825,13 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_Fucking_Game_Sucks.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_Rage.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk-citadel.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Gaishu_What_Is_That.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_Gaped.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_wtf.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Senpai_Gachi.wav"
+							"AudioExport/BFK_Fucking_Game_Sucks.wav",
+							"AudioExport/Bfk_Rage.wav",
+							"AudioExport/bfk-citadel.wav",
+							"AudioExport/Gaishu_What_Is_That.wav",
+							"AudioExport/Ruslan_Gaped.wav",
+							"AudioExport/Ruslan_wtf.wav",
+							"AudioExport/Senpai_Gachi.wav"
 						]
 					},
 					{
@@ -12849,13 +12843,13 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_Fucking_Game_Sucks.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_Rage.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk-citadel.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Gaishu_What_Is_That.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_Gaped.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_wtf.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Senpai_Gachi.wav"
+							"AudioExport/BFK_Fucking_Game_Sucks.wav",
+							"AudioExport/Bfk_Rage.wav",
+							"AudioExport/bfk-citadel.wav",
+							"AudioExport/Gaishu_What_Is_That.wav",
+							"AudioExport/Ruslan_Gaped.wav",
+							"AudioExport/Ruslan_wtf.wav",
+							"AudioExport/Senpai_Gachi.wav"
 						]
 					},
 					{
@@ -12867,13 +12861,13 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Senpai_Gachi.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/BFK_Fucking_Game_Sucks.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Bfk_Rage.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/bfk-citadel.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Gaishu_What_Is_That.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_Gaped.wav",
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/Ruslan_wtf.wav"
+							"AudioExport/Senpai_Gachi.wav",
+							"AudioExport/BFK_Fucking_Game_Sucks.wav",
+							"AudioExport/Bfk_Rage.wav",
+							"AudioExport/bfk-citadel.wav",
+							"AudioExport/Gaishu_What_Is_That.wav",
+							"AudioExport/Ruslan_Gaped.wav",
+							"AudioExport/Ruslan_wtf.wav"
 						]
 					}
 				],
@@ -12969,7 +12963,7 @@
 						"muted": false,
 						"filesNotFound": false,
 						"paths": [
-							"C:/Users/lander/Documents/O7SoundPack/O7/Audio/DortNut.wav"
+							"AudioExport/DortNut.wav"
 						]
 					}
 				],
@@ -24657,10 +24651,10 @@
 	],
 	"version": 20200941006,
 	"ok": true,
-	"modDirInGame": "D:/SteamLibrary/steamapps/common/World of Warships/bin/3052606/res_mods/banks/mods/O7",
-	"projectFileDir": "C:/Users/lander/Documents/O7SoundPack/O7",
-	"projectFilePath": "C:/Users/lander/Documents/O7SoundPack/O7/O7.rvm",
-	"projectBackupPath": "C:/Users/lander/Documents/O7SoundPack/O7/Backups/O7.rvb",
+	"modDirInGame": "",
+	"projectFileDir": "",
+	"projectFilePath": "",
+	"projectBackupPath": "",
 	"copyFiles": true,
 	"modName": "O7",
 	"programVersion": " - Sound Mods Creator 2.1.0",
