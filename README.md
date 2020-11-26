@@ -19,6 +19,7 @@ If you are in the mod pack and would like your voice clip removed or have sugges
 - Audio events for heavy damage taken are not played. I'm unsure if this is an issue with my testing or the game simply not triggering these events.
 - When using the "Focus Fire" quick command `Dort_Destroyer` is played for all ships -- not just destroyers.
 - `bfk_nom` plays most of the time when you land a torpedo on an enemy boat. If you land many torpedoes, the full voice clip plays for each torpedo. I'm not sure if this is a feature or a bug yet.
+- Torpedo reload booster has a sound effect the unfortunately is not triggered by the game. Needs investigation.
 
 ## Credits
 
