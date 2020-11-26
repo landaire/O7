@@ -11,3 +11,5 @@ The current version of the game is represented by the `3052606` in the above pat
 If you aren't sure where World of Warships is installed, right-click the game in Steam and go to `Properties`. Click on `Local Files`, then `Browse Local Files`:
 
 ![Steam Properties](img/wows_properties.png)
+
+Windows Explorer should pop up in your Steam `World of Warships` installation directory.
