@@ -53,4 +53,4 @@ Not everything is overridden in the sound pack and as a result you may hear defa
 
 ## Credits
 
-Thanks to Pyrrhuloxia, Doyl3, tadpolefishtaco, and others in the O7 Discord for providing some of these audio clips.
+Thanks to grayproduct, Pyrrhuloxia, Doyl3, tadpolefishtaco, and others in the O7 Discord for providing some of these audio clips.
